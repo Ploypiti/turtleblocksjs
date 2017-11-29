@@ -3,7 +3,7 @@
 	<!ENTITY stroke_color "#000">
 	<!ENTITY fill_color "#fff">
 ]>
-<svg height="100px" viewBox="0 0 55 55" width="100px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke="&stroke_color;" fill="&fill_color;">
+<svg height="500px" viewBox="0 0 55 55" width="500px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke="&stroke_color;" fill="&fill_color;">
 <g
      transform="matrix(0.92640065,0,0,0.92640065,-6.8450171,-8.9368403)"
      id="g5"
